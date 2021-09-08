@@ -1,5 +1,5 @@
 # Plagiarism-Detector
-Simple plagiarism detector made using python
+Simple plagiarism detector made in python using containment measure 
 
 Packages and Interfaces Needed
 1. NLTK : Package used for pre-processing to tokenize and etc.
